@@ -1,0 +1,75 @@
+{
+    "name": "Lulu",
+    "description": "<p>Lulu is creating a new model in publishing that empowers more creators to sell more content to more readers more profitably than ever before. Through our open publishing platform, we are helping creators make works available in multiple formats and markets and improving discovery so buyers can more easily find the content they need. Since our founding in 2002, 1.1 million creators from more than 200 countries and territories have signed up with us. And each month, we add approximately 20,000 titles to our catalog.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/223-lulu-api.jpg",
+    "tags": [
+        "api provider",
+        "books",
+        "have api",
+        "marketplaces",
+        "print on demand"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lulu\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Lulu",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/223-lulu-api.jpg",
+            "humanURL": "http:\/\/lulu.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lulu-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lulu-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/developer.lulu.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/developer.lulu.com\/blog\/feed-entries"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/lulu-press"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/lulu-press"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.lulu.com\/home"
+        },
+        {
+            "type": "Email",
+            "url": "questionablecontent@Lulu.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Luludotcom"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/luluapi"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/lulu.com"
+        }
+    ]
+}
